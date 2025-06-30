@@ -11,8 +11,8 @@ A fun and responsive web-based Tic-Tac-Toe game built with HTML, CSS, and JavaSc
 3. Hard : Smart strategy.
 4. Unbeatable : Impossible to beat AI in this(you will either loose or tie).
 
-**Responsive Design**
+**Responsive Design:** 
 Optimized for all screen sizes using CSS.
 
-Game History Tracking 
+**Game History Tracking:**
 Keeps a record of previous match outcomes, allowing players to view game stats during the session. 
